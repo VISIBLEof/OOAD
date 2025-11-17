@@ -1,0 +1,11 @@
+{
+  "/api/assignments/[id]/submissions/route": "app/api/assignments/[id]/submissions/route.js",
+  "/api/assignments/[id]/submit/route": "app/api/assignments/[id]/submit/route.js",
+  "/api/assignments/route": "app/api/assignments/route.js",
+  "/api/auth/sync/route": "app/api/auth/sync/route.js",
+  "/api/courses/route": "app/api/courses/route.js",
+  "/api/quizzes/route": "app/api/quizzes/route.js",
+  "/student/assignment/[id]/page": "app/student/assignment/[id]/page.js",
+  "/teacher/assignment/[id]/submissions/page": "app/teacher/assignment/[id]/submissions/page.js",
+  "/teacher/course/[id]/page": "app/teacher/course/[id]/page.js"
+}

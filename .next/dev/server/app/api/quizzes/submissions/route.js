@@ -1,0 +1,12 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/quizzes/submissions/route.js")
+R.c("server/chunks/12963_next_ef3d4a8e._.js")
+R.c("server/chunks/12963_@neondatabase_serverless_index_mjs_e24a5320._.js")
+R.c("server/chunks/12963_ws_176728f7._.js")
+R.c("server/chunks/12963_@supabase_realtime-js_dist_module_c2e7a6ec._.js")
+R.c("server/chunks/12963_@supabase_storage-js_dist_module_8bfd0d9d._.js")
+R.c("server/chunks/12963_@supabase_auth-js_dist_module_77bcfd64._.js")
+R.c("server/chunks/12963_ec5b7ef1._.js")
+R.c("server/chunks/[root-of-the-server]__bfb7ca25._.js")
+R.c("server/chunks/5477a__next-internal_server_app_api_quizzes_submissions_route_actions_ba2e9ad5.js")
+R.m("[project]/OOAD Project/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OOAD Project/app/api/quizzes/submissions/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/OOAD Project/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OOAD Project/app/api/quizzes/submissions/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
